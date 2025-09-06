@@ -1,4 +1,4 @@
-# 🛡️ Developing Ethical Hacking Tools with Python – Cybrary  
+# 🛡️ Developing Ethical Hacking Tools with Python – Continue Education Completion Cybrary  
 
 ![Course](https://img.shields.io/badge/Cybrary-Ethical%20Hacking%20Python-blue?style=flat-square&logo=python) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Python%20for%20Ethical%20Hacking-informational?style=flat-square&logo=python) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
 
